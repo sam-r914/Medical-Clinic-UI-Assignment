@@ -1,0 +1,44 @@
+Here's some tips and tricks to use the UI.
+
+The main page of the UI has several buttons on the left hand side. On the left it is split between two parts.
+The top part contains a small table and some input boxes just below. 
+To create a new patient, fil in the input boxes with the required patient details and push the top left button "Add New Patient":
+You'll see that the details you just entered have appeared in the table on the top along with a small message just below the input boxes that confirm the addition of the patient.
+
+To remove a patient, enter the PHN into the PHN input box and press the "Remove Patient" button. You will get a pop up box confirming the deletion, press confirm and patient will be deleted
+there will be a small message just below the input boxes that confirms the deletion of specified PHN.
+
+To search for a patient by PHN, input wanted PHN into input box and press button "Search by PHN", patient details will appear in table on the top.
+
+To list all patients, click the "List All Patients" button. A table of all patients will appear in the blank area below the input boxes.
+As the small message just below the input boxes says, if you double click on any field of any patient, all the details of the specified patient will appear in the input fields for easy editing
+
+To change patient details, search for requested patient by PHN, enter all fields with required information (you can use double click method from list all patients) then press "Change Patient Data" button.
+A pop up will ask for confirmation of changes, press "confirm" to change the data.
+
+Retrieve patient by name will take the input from the "Name" input box and display all patients that contain the input in the blank area below.
+
+"Clear All" clears all input and data from the screen. It does not permanently delete anything.
+
+To start an appointment and add notes to a patient chart, press "Start Appointment With Patient". Input PHN of desired patient, press "Search" then confirm starting appointment with patient of name shown on new pop up.
+You will be taken to a new screen with buttons on the left hand side and a large blank area on the right where patient chart notes will appear when added.
+
+To add a note, press "Add New Note": a pop up will appear where you can write a note, press "Create" and pop up will disappear. To view the note press "List All Notes".
+To delete a note, press "Delete Note" a pop up will prompt you for a note code, enter number of the note you wish to delete and press "Delete", note will be deleted and if there are any other notes, note code will adjust to 
+accommodate the deleted note.
+
+The "Retrieve Notes" button will ask for a keyword, enter any word and any note that contains that word will be listed.
+
+"Update Note" requires that you search for a note of a specific code first, if the note exists and is found, the contents of the note will fill the large text box, from which point you can change the contents of the note
+perhaps to fix a typo, press "Update" and note contents will update accordingly.
+
+"List All Notes" lists every note that exists from previous appointments to new ones made. Once button is pressed, all changes will be updated automatically and will not need to be pressed again until appointment ends.
+
+"End Appointment" closes the appointment screen and returns you to main page.
+
+Back in the main page "Log Out" will take you back to the login screen and "Quit" will exit the program.
+
+Pressing the "X" button at the top right of the application will close the UI like any other app.
+
+Now you should be able to navigate the UI properly. There are a few functions that are small but were included for ease of use, such as utilising the tab button on your keyboard.
+I encourage you to explore different possibilities to see what happens when you do certain things.
